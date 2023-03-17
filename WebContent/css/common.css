@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+
+.img-auto {
+	max-height: 1800px;
+	max-width: 1800px;
+	min-height: 60px;
+	min-width: 60px;
+}
